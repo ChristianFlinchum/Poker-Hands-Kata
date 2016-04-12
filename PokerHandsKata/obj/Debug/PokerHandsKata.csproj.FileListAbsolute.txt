@@ -1,0 +1,6 @@
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\PokerHandsKata\PokerHandsKata\bin\Debug\PokerHandsKata.exe.config
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\PokerHandsKata\PokerHandsKata\bin\Debug\PokerHandsKata.exe
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\PokerHandsKata\PokerHandsKata\bin\Debug\PokerHandsKata.pdb
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\PokerHandsKata\PokerHandsKata\obj\Debug\PokerHandsKata.exe
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\PokerHandsKata\PokerHandsKata\obj\Debug\PokerHandsKata.pdb
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\PokerHandsKata\PokerHandsKata\obj\Debug\PokerHandsKata.csprojResolveAssemblyReference.cache
